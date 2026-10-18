@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "model": "qwen2.5:7b",
+      "strategy": "baseline",
+      "n": 280,
+      "accuracy": 0.925,
+      "ci_low": 0.8880705365795056,
+      "ci_high": 0.9504253005352796,
+      "mean_retries": 0.0,
+      "mean_llm_ms": 3664.2792857142854,
+      "outcomes": {
+        "correct": 0.925,
+        "wrong_answer": 0.03214285714285714,
+        "not_calculation": 0.02142857142857143,
+        "blocked": 0.014285714285714285,
+        "exec_error": 0.007142857142857143
+      },
+      "by_difficulty": {
+        "easy": 1.0,
+        "medium": 1.0,
+        "hard": 0.7857142857142857,
+        "advanced": 0.925
+      }
+    },
+    {
+      "model": "qwen2.5:7b",
+      "strategy": "full",
+      "n": 280,
+      "accuracy": 0.9928571428571429,
+      "ci_low": 0.9743343022395989,
+      "ci_high": 0.9980390214733452,
+      "mean_retries": 0.010714285714285714,
+      "mean_llm_ms": 3151.4353571428574,
+      "outcomes": {
+        "correct": 0.9928571428571429,
+        "wrong_answer": 0.0,
+        "not_calculation": 0.007142857142857143,
+        "blocked": 0.0,
+        "exec_error": 0.0
+      },
+      "by_difficulty": {
+        "easy": 0.9666666666666667,
+        "medium": 1.0,
+        "hard": 1.0,
+        "advanced": 1.0
+      }
+    },
+    {
+      "model": "qwen2.5:7b",
+      "strategy": "prompt",
+      "n": 280,
+      "accuracy": 0.9821428571428571,
+      "ci_low": 0.9588856779993997,
+      "ci_high": 0.9923490951980456,
+      "mean_retries": 0.0,
+      "mean_llm_ms": 4163.781785714285,
+      "outcomes": {
+        "correct": 0.9821428571428571,
+        "wrong_answer": 0.0,
+        "not_calculation": 0.007142857142857143,
+        "blocked": 0.010714285714285714,
+        "exec_error": 0.0
+      },
+      "by_difficulty": {
+        "easy": 0.9666666666666667,
+        "medium": 0.9714285714285714,
+        "hard": 0.9857142857142858,
+        "advanced": 1.0
+      }
+    },
+    {
+      "model": "qwen2.5:7b",
+      "strategy": "rewrite",
+      "n": 280,
+      "accuracy": 0.9821428571428571,
+      "ci_low": 0.9588856779993997,
+      "ci_high": 0.9923490951980456,
+      "mean_retries": 0.0,
+      "mean_llm_ms": 3355.949642857143,
+      "outcomes": {
+        "correct": 0.9821428571428571,
+        "wrong_answer": 0.0,
+        "not_calculation": 0.007142857142857143,
+        "blocked": 0.010714285714285714,
+        "exec_error": 0.0
+      },
+      "by_difficulty": {
+        "easy": 0.9666666666666667,
+        "medium": 0.9714285714285714,
+        "hard": 0.9857142857142858,
+        "advanced": 1.0
+      }
+    }
+  ]
+}

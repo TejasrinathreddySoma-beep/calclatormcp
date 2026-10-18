@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcpcalc"
+version = "0.1.0"
+description = "Verified tool use for small local LLMs: an MCP calculator with a safety policy, SQL logging, HTTP transport and a benchmark harness"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["mcp>=1.9,<2", "ollama>=0.4", "pyyaml>=6"]
+
+[project.optional-dependencies]
+windows = ["pywinauto>=0.6.8; sys_platform == 'win32'"]
+dashboard = ["streamlit>=1.30", "pandas>=2"]
+bench = ["matplotlib>=3.7"]
+dev = ["pytest>=7", "pytest-cov", "ruff"]
+
+[project.scripts]
+mcpcalc-server = "mcpcalc.server:main"
+mcpcalc-chat = "mcpcalc.client:main"
+mcpcalc-bench = "mcpcalc.benchmark:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+markers = ["integration: starts a real MCP server process over HTTP"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+# vendored-style UI automation layer (Windows only); verified by tests/test_windows_keys.py instead
+extend-exclude = ["src/mcpcalc/backends/windows_ui.py"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+
+[tool.coverage.run]
+source = ["mcpcalc"]
+# The UI-automation layer needs a real Windows desktop; it is covered by the key-sequence tests instead.
+omit = ["*/backends/windows_ui.py"]

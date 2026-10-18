@@ -1,0 +1,25 @@
+# mcpcalc configuration. Every key is optional; missing keys fall back to the defaults in src/mcpcalc/config.py
+llm:
+  provider: ollama
+  model: llama3.1:8b          # try llama3.1:8b too - the benchmark compares them
+  host: http://localhost:11434
+  temperature: 0
+translator:
+  strategy: full             # baseline | prompt | rewrite | full   (see README: ablation study)
+  max_retries: 2
+backend: python              # python | windows_calculator (optional demo backend, Windows only)
+angle_mode: deg              # deg | rad | grad
+server:
+  transport: stdio           # stdio | streamable-http
+  host: 127.0.0.1
+  port: 8765
+  workers: 4                 # forced to 1 for the windows_calculator backend
+  queue_size: 100
+  timeout_s: 30
+safety:
+  dry_run: false             # true = validate and log, but never execute
+  max_expression_length: 200
+  max_nodes: 120
+  allowed_functions: all     # or a list, e.g. [sqrt, sin, cos, log]
+database:
+  path: data/mcpcalc.db

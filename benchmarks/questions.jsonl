@@ -1,0 +1,280 @@
+{"id": "q001", "difficulty": "easy", "category": "add", "question": "I have 91 pencils and buy 24 more, how many do I have in total?", "reference_expression": "91+24", "expected": 115.0}
+{"id": "q002", "difficulty": "easy", "category": "sub", "question": "A shop has 120 candies and sells 41, how many are left?", "reference_expression": "120-41", "expected": 79.0}
+{"id": "q003", "difficulty": "easy", "category": "mul", "question": "Each box holds 7 cookies, how many are in 6 boxes?", "reference_expression": "7*6", "expected": 42.0}
+{"id": "q004", "difficulty": "easy", "category": "div", "question": "Share 60 stickers equally among 3 children, how many does each child get?", "reference_expression": "60/3", "expected": 20.0}
+{"id": "q005", "difficulty": "easy", "category": "price", "question": "i have 7 apples and each cost 2 how much i get if i sell all of them", "reference_expression": "7*2", "expected": 14.0}
+{"id": "q006", "difficulty": "easy", "category": "direct", "question": "what is 37 minus 5", "reference_expression": "37-5", "expected": 32.0}
+{"id": "q007", "difficulty": "easy", "category": "add", "question": "I have 87 cookies and buy 13 more, how many do I have in total?", "reference_expression": "87+13", "expected": 100.0}
+{"id": "q008", "difficulty": "easy", "category": "sub", "question": "A shop has 100 cookies and sells 93, how many are left?", "reference_expression": "100-93", "expected": 7.0}
+{"id": "q009", "difficulty": "easy", "category": "mul", "question": "Each box holds 16 marbles, how many are in 10 boxes?", "reference_expression": "16*10", "expected": 160.0}
+{"id": "q010", "difficulty": "easy", "category": "div", "question": "Share 110 pencils equally among 11 children, how many does each child get?", "reference_expression": "110/11", "expected": 10.0}
+{"id": "q011", "difficulty": "easy", "category": "price", "question": "i have 15 stickers and each cost 24 how much i get if i sell all of them", "reference_expression": "15*24", "expected": 360.0}
+{"id": "q012", "difficulty": "easy", "category": "direct", "question": "what is 15 times 6", "reference_expression": "15*6", "expected": 90.0}
+{"id": "q013", "difficulty": "easy", "category": "add", "question": "I have 37 apples and buy 53 more, how many do I have in total?", "reference_expression": "37+53", "expected": 90.0}
+{"id": "q014", "difficulty": "easy", "category": "sub", "question": "A shop has 73 apples and sells 34, how many are left?", "reference_expression": "73-34", "expected": 39.0}
+{"id": "q015", "difficulty": "easy", "category": "mul", "question": "Each box holds 14 balloons, how many are in 14 boxes?", "reference_expression": "14*14", "expected": 196.0}
+{"id": "q016", "difficulty": "easy", "category": "div", "question": "Share 18 marbles equally among 6 children, how many does each child get?", "reference_expression": "18/6", "expected": 3.0}
+{"id": "q017", "difficulty": "easy", "category": "price", "question": "i have 39 stickers and each cost 5 how much i get if i sell all of them", "reference_expression": "39*5", "expected": 195.0}
+{"id": "q018", "difficulty": "easy", "category": "direct", "question": "what is 28 plus 10", "reference_expression": "28+10", "expected": 38.0}
+{"id": "q019", "difficulty": "easy", "category": "add", "question": "I have 90 eggs and buy 89 more, how many do I have in total?", "reference_expression": "90+89", "expected": 179.0}
+{"id": "q020", "difficulty": "easy", "category": "sub", "question": "A shop has 197 apples and sells 59, how many are left?", "reference_expression": "197-59", "expected": 138.0}
+{"id": "q021", "difficulty": "easy", "category": "mul", "question": "Each box holds 4 pens, how many are in 10 boxes?", "reference_expression": "4*10", "expected": 40.0}
+{"id": "q022", "difficulty": "easy", "category": "div", "question": "Share 27 apples equally among 3 children, how many does each child get?", "reference_expression": "27/3", "expected": 9.0}
+{"id": "q023", "difficulty": "easy", "category": "price", "question": "i have 29 marbles and each cost 10 how much i get if i sell all of them", "reference_expression": "29*10", "expected": 290.0}
+{"id": "q024", "difficulty": "easy", "category": "direct", "question": "what is 27 times 4", "reference_expression": "27*4", "expected": 108.0}
+{"id": "q025", "difficulty": "easy", "category": "add", "question": "I have 55 pens and buy 36 more, how many do I have in total?", "reference_expression": "55+36", "expected": 91.0}
+{"id": "q026", "difficulty": "easy", "category": "sub", "question": "A shop has 68 books and sells 48, how many are left?", "reference_expression": "68-48", "expected": 20.0}
+{"id": "q027", "difficulty": "easy", "category": "mul", "question": "Each box holds 20 books, how many are in 10 boxes?", "reference_expression": "20*10", "expected": 200.0}
+{"id": "q028", "difficulty": "easy", "category": "div", "question": "Share 126 pens equally among 9 children, how many does each child get?", "reference_expression": "126/9", "expected": 14.0}
+{"id": "q029", "difficulty": "easy", "category": "price", "question": "i have 40 eggs and each cost 9 how much i get if i sell all of them", "reference_expression": "40*9", "expected": 360.0}
+{"id": "q030", "difficulty": "easy", "category": "direct", "question": "what is 57 plus 5", "reference_expression": "57+5", "expected": 62.0}
+{"id": "q031", "difficulty": "easy", "category": "add", "question": "I have 14 stickers and buy 50 more, how many do I have in total?", "reference_expression": "14+50", "expected": 64.0}
+{"id": "q032", "difficulty": "easy", "category": "sub", "question": "A shop has 118 candies and sells 18, how many are left?", "reference_expression": "118-18", "expected": 100.0}
+{"id": "q033", "difficulty": "easy", "category": "mul", "question": "Each box holds 13 marbles, how many are in 9 boxes?", "reference_expression": "13*9", "expected": 117.0}
+{"id": "q034", "difficulty": "easy", "category": "div", "question": "Share 176 marbles equally among 8 children, how many does each child get?", "reference_expression": "176/8", "expected": 22.0}
+{"id": "q035", "difficulty": "easy", "category": "price", "question": "i have 14 books and each cost 10 how much i get if i sell all of them", "reference_expression": "14*10", "expected": 140.0}
+{"id": "q036", "difficulty": "easy", "category": "direct", "question": "what is 44 minus 10", "reference_expression": "44-10", "expected": 34.0}
+{"id": "q037", "difficulty": "easy", "category": "add", "question": "I have 43 stickers and buy 84 more, how many do I have in total?", "reference_expression": "43+84", "expected": 127.0}
+{"id": "q038", "difficulty": "easy", "category": "sub", "question": "A shop has 199 eggs and sells 112, how many are left?", "reference_expression": "199-112", "expected": 87.0}
+{"id": "q039", "difficulty": "easy", "category": "mul", "question": "Each box holds 10 cookies, how many are in 7 boxes?", "reference_expression": "10*7", "expected": 70.0}
+{"id": "q040", "difficulty": "easy", "category": "div", "question": "Share 36 pencils equally among 9 children, how many does each child get?", "reference_expression": "36/9", "expected": 4.0}
+{"id": "q041", "difficulty": "easy", "category": "price", "question": "i have 12 books and each cost 6 how much i get if i sell all of them", "reference_expression": "12*6", "expected": 72.0}
+{"id": "q042", "difficulty": "easy", "category": "direct", "question": "what is 33 divided by 11", "reference_expression": "33/11", "expected": 3.0}
+{"id": "q043", "difficulty": "easy", "category": "add", "question": "I have 59 balloons and buy 58 more, how many do I have in total?", "reference_expression": "59+58", "expected": 117.0}
+{"id": "q044", "difficulty": "easy", "category": "sub", "question": "A shop has 169 pens and sells 145, how many are left?", "reference_expression": "169-145", "expected": 24.0}
+{"id": "q045", "difficulty": "easy", "category": "mul", "question": "Each box holds 20 apples, how many are in 3 boxes?", "reference_expression": "20*3", "expected": 60.0}
+{"id": "q046", "difficulty": "easy", "category": "div", "question": "Share 228 pens equally among 12 children, how many does each child get?", "reference_expression": "228/12", "expected": 19.0}
+{"id": "q047", "difficulty": "easy", "category": "price", "question": "i have 26 pens and each cost 5 how much i get if i sell all of them", "reference_expression": "26*5", "expected": 130.0}
+{"id": "q048", "difficulty": "easy", "category": "direct", "question": "what is 36 divided by 4", "reference_expression": "36/4", "expected": 9.0}
+{"id": "q049", "difficulty": "easy", "category": "add", "question": "I have 10 cookies and buy 43 more, how many do I have in total?", "reference_expression": "10+43", "expected": 53.0}
+{"id": "q050", "difficulty": "easy", "category": "sub", "question": "A shop has 95 apples and sells 74, how many are left?", "reference_expression": "95-74", "expected": 21.0}
+{"id": "q051", "difficulty": "easy", "category": "mul", "question": "Each box holds 12 balloons, how many are in 19 boxes?", "reference_expression": "12*19", "expected": 228.0}
+{"id": "q052", "difficulty": "easy", "category": "div", "question": "Share 30 eggs equally among 5 children, how many does each child get?", "reference_expression": "30/5", "expected": 6.0}
+{"id": "q053", "difficulty": "easy", "category": "price", "question": "i have 15 cookies and each cost 19 how much i get if i sell all of them", "reference_expression": "15*19", "expected": 285.0}
+{"id": "q054", "difficulty": "easy", "category": "direct", "question": "what is 31 plus 11", "reference_expression": "31+11", "expected": 42.0}
+{"id": "q055", "difficulty": "easy", "category": "add", "question": "I have 72 apples and buy 12 more, how many do I have in total?", "reference_expression": "72+12", "expected": 84.0}
+{"id": "q056", "difficulty": "easy", "category": "sub", "question": "A shop has 142 candies and sells 88, how many are left?", "reference_expression": "142-88", "expected": 54.0}
+{"id": "q057", "difficulty": "easy", "category": "mul", "question": "Each box holds 4 balloons, how many are in 10 boxes?", "reference_expression": "4*10", "expected": 40.0}
+{"id": "q058", "difficulty": "easy", "category": "div", "question": "Share 12 marbles equally among 3 children, how many does each child get?", "reference_expression": "12/3", "expected": 4.0}
+{"id": "q059", "difficulty": "easy", "category": "price", "question": "i have 9 books and each cost 19 how much i get if i sell all of them", "reference_expression": "9*19", "expected": 171.0}
+{"id": "q060", "difficulty": "easy", "category": "direct", "question": "what is 42 minus 12", "reference_expression": "42-12", "expected": 30.0}
+{"id": "q061", "difficulty": "medium", "category": "bill", "question": "I buy 10 pens at 10 each and 4 books at 175 each, what is the total bill?", "reference_expression": "10*10+4*175", "expected": 800.0}
+{"id": "q062", "difficulty": "medium", "category": "change", "question": "I buy 8 notebooks at 47 each and pay with 400, how much change do I get?", "reference_expression": "400-8*47", "expected": 24.0}
+{"id": "q063", "difficulty": "medium", "category": "area", "question": "A rectangle is 25.5 long and 14 wide, what is its area?", "reference_expression": "25.5*14", "expected": 357.0}
+{"id": "q064", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 24 long and 13 wide, what is its perimeter?", "reference_expression": "2*(24+13)", "expected": 74.0}
+{"id": "q065", "difficulty": "medium", "category": "speed", "question": "A train travels at 80 km per hour for 4 hours, how far does it go?", "reference_expression": "80*4", "expected": 320.0}
+{"id": "q066", "difficulty": "medium", "category": "percent", "question": "What is 40 percent of 450?", "reference_expression": "(40/100)*450", "expected": 180.0}
+{"id": "q067", "difficulty": "medium", "category": "discount", "question": "A phone costs 9000 and has a 15 percent discount, what is the final price?", "reference_expression": "9000-(15/100)*9000", "expected": 7650.0}
+{"id": "q068", "difficulty": "medium", "category": "average", "question": "The marks are 44, 61 and 41, what is the average?", "reference_expression": "(44+61+41)/3", "expected": 48.666666666666664}
+{"id": "q069", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 161 is divided by 12?", "reference_expression": "161%12", "expected": 5.0}
+{"id": "q070", "difficulty": "medium", "category": "bill", "question": "I buy 5 pens at 23 each and 3 books at 41 each, what is the total bill?", "reference_expression": "5*23+3*41", "expected": 238.0}
+{"id": "q071", "difficulty": "medium", "category": "change", "question": "I buy 3 notebooks at 27 each and pay with 100, how much change do I get?", "reference_expression": "100-3*27", "expected": 19.0}
+{"id": "q072", "difficulty": "medium", "category": "area", "question": "A rectangle is 5 long and 12 wide, what is its area?", "reference_expression": "5*12", "expected": 60.0}
+{"id": "q073", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 5 long and 18 wide, what is its perimeter?", "reference_expression": "2*(5+18)", "expected": 46.0}
+{"id": "q074", "difficulty": "medium", "category": "speed", "question": "A train travels at 50 km per hour for 2.5 hours, how far does it go?", "reference_expression": "50*2.5", "expected": 125.0}
+{"id": "q075", "difficulty": "medium", "category": "percent", "question": "What is 40 percent of 750?", "reference_expression": "(40/100)*750", "expected": 300.0}
+{"id": "q076", "difficulty": "medium", "category": "discount", "question": "A phone costs 6000 and has a 30 percent discount, what is the final price?", "reference_expression": "6000-(30/100)*6000", "expected": 4200.0}
+{"id": "q077", "difficulty": "medium", "category": "average", "question": "The marks are 86, 99 and 96, what is the average?", "reference_expression": "(86+99+96)/3", "expected": 93.66666666666667}
+{"id": "q078", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 167 is divided by 12?", "reference_expression": "167%12", "expected": 11.0}
+{"id": "q079", "difficulty": "medium", "category": "bill", "question": "I buy 9 pens at 12 each and 8 books at 161 each, what is the total bill?", "reference_expression": "9*12+8*161", "expected": 1396.0}
+{"id": "q080", "difficulty": "medium", "category": "change", "question": "I buy 8 notebooks at 44 each and pay with 400, how much change do I get?", "reference_expression": "400-8*44", "expected": 48.0}
+{"id": "q081", "difficulty": "medium", "category": "area", "question": "A rectangle is 6.5 long and 13 wide, what is its area?", "reference_expression": "6.5*13", "expected": 84.5}
+{"id": "q082", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 16 long and 15 wide, what is its perimeter?", "reference_expression": "2*(16+15)", "expected": 62.0}
+{"id": "q083", "difficulty": "medium", "category": "speed", "question": "A train travels at 80 km per hour for 1.5 hours, how far does it go?", "reference_expression": "80*1.5", "expected": 120.0}
+{"id": "q084", "difficulty": "medium", "category": "percent", "question": "What is 10 percent of 250?", "reference_expression": "(10/100)*250", "expected": 25.0}
+{"id": "q085", "difficulty": "medium", "category": "discount", "question": "A phone costs 25000 and has a 25 percent discount, what is the final price?", "reference_expression": "25000-(25/100)*25000", "expected": 18750.0}
+{"id": "q086", "difficulty": "medium", "category": "average", "question": "The marks are 61, 91 and 95, what is the average?", "reference_expression": "(61+91+95)/3", "expected": 82.33333333333333}
+{"id": "q087", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 83 is divided by 4?", "reference_expression": "83%4", "expected": 3.0}
+{"id": "q088", "difficulty": "medium", "category": "bill", "question": "I buy 5 pens at 11 each and 6 books at 154 each, what is the total bill?", "reference_expression": "5*11+6*154", "expected": 979.0}
+{"id": "q089", "difficulty": "medium", "category": "change", "question": "I buy 4 notebooks at 74 each and pay with 300, how much change do I get?", "reference_expression": "300-4*74", "expected": 4.0}
+{"id": "q090", "difficulty": "medium", "category": "area", "question": "A rectangle is 11.5 long and 9 wide, what is its area?", "reference_expression": "11.5*9", "expected": 103.5}
+{"id": "q091", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 30 long and 4 wide, what is its perimeter?", "reference_expression": "2*(30+4)", "expected": 68.0}
+{"id": "q092", "difficulty": "medium", "category": "discount", "question": "A phone costs 28500 and has a 30 percent discount, what is the final price?", "reference_expression": "28500-(30/100)*28500", "expected": 19950.0}
+{"id": "q093", "difficulty": "medium", "category": "average", "question": "The marks are 40, 45 and 99, what is the average?", "reference_expression": "(40+45+99)/3", "expected": 61.333333333333336}
+{"id": "q094", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 62 is divided by 6?", "reference_expression": "62%6", "expected": 2.0}
+{"id": "q095", "difficulty": "medium", "category": "bill", "question": "I buy 8 pens at 20 each and 5 books at 94 each, what is the total bill?", "reference_expression": "8*20+5*94", "expected": 630.0}
+{"id": "q096", "difficulty": "medium", "category": "change", "question": "I buy 8 notebooks at 27 each and pay with 300, how much change do I get?", "reference_expression": "300-8*27", "expected": 84.0}
+{"id": "q097", "difficulty": "medium", "category": "area", "question": "A rectangle is 15 long and 14 wide, what is its area?", "reference_expression": "15*14", "expected": 210.0}
+{"id": "q098", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 11 long and 16 wide, what is its perimeter?", "reference_expression": "2*(11+16)", "expected": 54.0}
+{"id": "q099", "difficulty": "medium", "category": "speed", "question": "A train travels at 60 km per hour for 3 hours, how far does it go?", "reference_expression": "60*3", "expected": 180.0}
+{"id": "q100", "difficulty": "medium", "category": "percent", "question": "What is 40 percent of 550?", "reference_expression": "(40/100)*550", "expected": 220.0}
+{"id": "q101", "difficulty": "medium", "category": "discount", "question": "A phone costs 11000 and has a 15 percent discount, what is the final price?", "reference_expression": "11000-(15/100)*11000", "expected": 9350.0}
+{"id": "q102", "difficulty": "medium", "category": "average", "question": "The marks are 53, 43 and 77, what is the average?", "reference_expression": "(53+43+77)/3", "expected": 57.666666666666664}
+{"id": "q103", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 35 is divided by 11?", "reference_expression": "35%11", "expected": 2.0}
+{"id": "q104", "difficulty": "medium", "category": "bill", "question": "I buy 7 pens at 6 each and 2 books at 189 each, what is the total bill?", "reference_expression": "7*6+2*189", "expected": 420.0}
+{"id": "q105", "difficulty": "medium", "category": "change", "question": "I buy 9 notebooks at 84 each and pay with 800, how much change do I get?", "reference_expression": "800-9*84", "expected": 44.0}
+{"id": "q106", "difficulty": "medium", "category": "area", "question": "A rectangle is 4 long and 7 wide, what is its area?", "reference_expression": "4*7", "expected": 28.0}
+{"id": "q107", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 5 long and 4 wide, what is its perimeter?", "reference_expression": "2*(5+4)", "expected": 18.0}
+{"id": "q108", "difficulty": "medium", "category": "speed", "question": "A train travels at 50 km per hour for 3 hours, how far does it go?", "reference_expression": "50*3", "expected": 150.0}
+{"id": "q109", "difficulty": "medium", "category": "percent", "question": "What is 10 percent of 1900?", "reference_expression": "(10/100)*1900", "expected": 190.0}
+{"id": "q110", "difficulty": "medium", "category": "discount", "question": "A phone costs 20500 and has a 15 percent discount, what is the final price?", "reference_expression": "20500-(15/100)*20500", "expected": 17425.0}
+{"id": "q111", "difficulty": "medium", "category": "average", "question": "The marks are 78, 42 and 79, what is the average?", "reference_expression": "(78+42+79)/3", "expected": 66.33333333333333}
+{"id": "q112", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 127 is divided by 4?", "reference_expression": "127%4", "expected": 3.0}
+{"id": "q113", "difficulty": "medium", "category": "bill", "question": "I buy 12 pens at 23 each and 6 books at 173 each, what is the total bill?", "reference_expression": "12*23+6*173", "expected": 1314.0}
+{"id": "q114", "difficulty": "medium", "category": "change", "question": "I buy 7 notebooks at 53 each and pay with 400, how much change do I get?", "reference_expression": "400-7*53", "expected": 29.0}
+{"id": "q115", "difficulty": "medium", "category": "area", "question": "A rectangle is 24.5 long and 9 wide, what is its area?", "reference_expression": "24.5*9", "expected": 220.5}
+{"id": "q116", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 11 long and 14 wide, what is its perimeter?", "reference_expression": "2*(11+14)", "expected": 50.0}
+{"id": "q117", "difficulty": "medium", "category": "percent", "question": "What is 40 percent of 1100?", "reference_expression": "(40/100)*1100", "expected": 440.0}
+{"id": "q118", "difficulty": "medium", "category": "discount", "question": "A phone costs 2000 and has a 10 percent discount, what is the final price?", "reference_expression": "2000-(10/100)*2000", "expected": 1800.0}
+{"id": "q119", "difficulty": "medium", "category": "average", "question": "The marks are 69, 79 and 76, what is the average?", "reference_expression": "(69+79+76)/3", "expected": 74.66666666666667}
+{"id": "q120", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 38 is divided by 4?", "reference_expression": "38%4", "expected": 2.0}
+{"id": "q121", "difficulty": "medium", "category": "bill", "question": "I buy 10 pens at 11 each and 6 books at 107 each, what is the total bill?", "reference_expression": "10*11+6*107", "expected": 752.0}
+{"id": "q122", "difficulty": "medium", "category": "change", "question": "I buy 4 notebooks at 64 each and pay with 300, how much change do I get?", "reference_expression": "300-4*64", "expected": 44.0}
+{"id": "q123", "difficulty": "medium", "category": "area", "question": "A rectangle is 10.5 long and 11 wide, what is its area?", "reference_expression": "10.5*11", "expected": 115.5}
+{"id": "q124", "difficulty": "medium", "category": "perimeter", "question": "A rectangle is 8 long and 16 wide, what is its perimeter?", "reference_expression": "2*(8+16)", "expected": 48.0}
+{"id": "q125", "difficulty": "medium", "category": "speed", "question": "A train travels at 90 km per hour for 2.5 hours, how far does it go?", "reference_expression": "90*2.5", "expected": 225.0}
+{"id": "q126", "difficulty": "medium", "category": "percent", "question": "What is 5 percent of 1850?", "reference_expression": "(5/100)*1850", "expected": 92.5}
+{"id": "q127", "difficulty": "medium", "category": "discount", "question": "A phone costs 23000 and has a 20 percent discount, what is the final price?", "reference_expression": "23000-(20/100)*23000", "expected": 18400.0}
+{"id": "q128", "difficulty": "medium", "category": "average", "question": "The marks are 46, 100 and 96, what is the average?", "reference_expression": "(46+100+96)/3", "expected": 80.66666666666667}
+{"id": "q129", "difficulty": "medium", "category": "mod", "question": "What is the remainder when 87 is divided by 5?", "reference_expression": "87%5", "expected": 2.0}
+{"id": "q130", "difficulty": "medium", "category": "bill", "question": "I buy 3 pens at 8 each and 7 books at 181 each, what is the total bill?", "reference_expression": "3*8+7*181", "expected": 1291.0}
+{"id": "q131", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 49 plus 6 squared", "reference_expression": "sqrt(49)+6^2", "expected": 43.0}
+{"id": "q132", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 8 and 15, what is the hypotenuse?", "reference_expression": "sqrt(8^2+15^2)", "expected": 17.0}
+{"id": "q133", "difficulty": "hard", "category": "fact", "question": "9 factorial divided by 3 factorial", "reference_expression": "factorial(9)/factorial(3)", "expected": 60480.0}
+{"id": "q134", "difficulty": "hard", "category": "cbrt", "question": "cube root of 343 times 5", "reference_expression": "cbrt(343)*5", "expected": 35.0}
+{"id": "q135", "difficulty": "hard", "category": "circle", "question": "A circle has radius 12, what is its area?", "reference_expression": "pi*12^2", "expected": 452.3893421169302}
+{"id": "q136", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 6 and height 19, what is its volume?", "reference_expression": "pi*6^2*19", "expected": 2148.8493750554185}
+{"id": "q137", "difficulty": "hard", "category": "compound", "question": "I invest 50000 at 6 percent a year for 2 years with compound interest, what is the final amount?", "reference_expression": "50000*(1+6/100)^2", "expected": 56180.00000000001}
+{"id": "q138", "difficulty": "hard", "category": "power", "question": "3 to the power of 5", "reference_expression": "3^5", "expected": 243.0}
+{"id": "q139", "difficulty": "hard", "category": "cubed", "question": "6 cubed minus 2", "reference_expression": "6^3-2", "expected": 214.0}
+{"id": "q140", "difficulty": "hard", "category": "brackets", "question": "(2 plus 12) times (18 minus 14)", "reference_expression": "(2+12)*(18-14)", "expected": 56.0}
+{"id": "q141", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 121 plus 4 squared", "reference_expression": "sqrt(121)+4^2", "expected": 27.0}
+{"id": "q142", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 9 and 12, what is the hypotenuse?", "reference_expression": "sqrt(9^2+12^2)", "expected": 15.0}
+{"id": "q143", "difficulty": "hard", "category": "fact", "question": "8 factorial divided by 6 factorial", "reference_expression": "factorial(8)/factorial(6)", "expected": 56.0}
+{"id": "q144", "difficulty": "hard", "category": "cbrt", "question": "cube root of 512 times 2", "reference_expression": "cbrt(512)*2", "expected": 16.0}
+{"id": "q145", "difficulty": "hard", "category": "circle", "question": "A circle has radius 3, what is its area?", "reference_expression": "pi*3^2", "expected": 28.274333882308138}
+{"id": "q146", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 3 and height 7, what is its volume?", "reference_expression": "pi*3^2*7", "expected": 197.92033717615698}
+{"id": "q147", "difficulty": "hard", "category": "compound", "question": "I invest 5000 at 6 percent a year for 3 years with compound interest, what is the final amount?", "reference_expression": "5000*(1+6/100)^3", "expected": 5955.08}
+{"id": "q148", "difficulty": "hard", "category": "power", "question": "8 to the power of 3", "reference_expression": "8^3", "expected": 512.0}
+{"id": "q149", "difficulty": "hard", "category": "cubed", "question": "2 cubed minus 10", "reference_expression": "2^3-10", "expected": -2.0}
+{"id": "q150", "difficulty": "hard", "category": "brackets", "question": "(13 plus 3) times (12 minus 7)", "reference_expression": "(13+3)*(12-7)", "expected": 80.0}
+{"id": "q151", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 100 plus 12 squared", "reference_expression": "sqrt(100)+12^2", "expected": 154.0}
+{"id": "q152", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 3 and 4, what is the hypotenuse?", "reference_expression": "sqrt(3^2+4^2)", "expected": 5.0}
+{"id": "q153", "difficulty": "hard", "category": "fact", "question": "7 factorial divided by 6 factorial", "reference_expression": "factorial(7)/factorial(6)", "expected": 7.0}
+{"id": "q154", "difficulty": "hard", "category": "cbrt", "question": "cube root of 512 times 4", "reference_expression": "cbrt(512)*4", "expected": 32.0}
+{"id": "q155", "difficulty": "hard", "category": "circle", "question": "A circle has radius 5, what is its area?", "reference_expression": "pi*5^2", "expected": 78.53981633974483}
+{"id": "q156", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 4 and height 8, what is its volume?", "reference_expression": "pi*4^2*8", "expected": 402.1238596594935}
+{"id": "q157", "difficulty": "hard", "category": "compound", "question": "I invest 50000 at 4 percent a year for 3 years with compound interest, what is the final amount?", "reference_expression": "50000*(1+4/100)^3", "expected": 56243.200000000004}
+{"id": "q158", "difficulty": "hard", "category": "power", "question": "7 to the power of 5", "reference_expression": "7^5", "expected": 16807.0}
+{"id": "q159", "difficulty": "hard", "category": "cubed", "question": "5 cubed minus 9", "reference_expression": "5^3-9", "expected": 116.0}
+{"id": "q160", "difficulty": "hard", "category": "brackets", "question": "(7 plus 5) times (23 minus 8)", "reference_expression": "(7+5)*(23-8)", "expected": 180.0}
+{"id": "q161", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 16 plus 9 squared", "reference_expression": "sqrt(16)+9^2", "expected": 85.0}
+{"id": "q162", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 5 and 12, what is the hypotenuse?", "reference_expression": "sqrt(5^2+12^2)", "expected": 13.0}
+{"id": "q163", "difficulty": "hard", "category": "fact", "question": "6 factorial divided by 5 factorial", "reference_expression": "factorial(6)/factorial(5)", "expected": 6.0}
+{"id": "q164", "difficulty": "hard", "category": "cbrt", "question": "cube root of 343 times 6", "reference_expression": "cbrt(343)*6", "expected": 42.0}
+{"id": "q165", "difficulty": "hard", "category": "circle", "question": "A circle has radius 15, what is its area?", "reference_expression": "pi*15^2", "expected": 706.8583470577034}
+{"id": "q166", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 5 and height 10, what is its volume?", "reference_expression": "pi*5^2*10", "expected": 785.3981633974483}
+{"id": "q167", "difficulty": "hard", "category": "compound", "question": "I invest 5000 at 5 percent a year for 5 years with compound interest, what is the final amount?", "reference_expression": "5000*(1+5/100)^5", "expected": 6381.4078125000015}
+{"id": "q168", "difficulty": "hard", "category": "power", "question": "7 to the power of 4", "reference_expression": "7^4", "expected": 2401.0}
+{"id": "q169", "difficulty": "hard", "category": "cubed", "question": "3 cubed minus 25", "reference_expression": "3^3-25", "expected": 2.0}
+{"id": "q170", "difficulty": "hard", "category": "brackets", "question": "(10 plus 13) times (22 minus 12)", "reference_expression": "(10+13)*(22-12)", "expected": 230.0}
+{"id": "q171", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 225 plus 12 squared", "reference_expression": "sqrt(225)+12^2", "expected": 159.0}
+{"id": "q172", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 20 and 21, what is the hypotenuse?", "reference_expression": "sqrt(20^2+21^2)", "expected": 29.0}
+{"id": "q173", "difficulty": "hard", "category": "fact", "question": "9 factorial divided by 4 factorial", "reference_expression": "factorial(9)/factorial(4)", "expected": 15120.0}
+{"id": "q174", "difficulty": "hard", "category": "cbrt", "question": "cube root of 8 times 3", "reference_expression": "cbrt(8)*3", "expected": 6.0}
+{"id": "q175", "difficulty": "hard", "category": "circle", "question": "A circle has radius 6, what is its area?", "reference_expression": "pi*6^2", "expected": 113.09733552923255}
+{"id": "q176", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 4 and height 11, what is its volume?", "reference_expression": "pi*4^2*11", "expected": 552.9203070318035}
+{"id": "q177", "difficulty": "hard", "category": "compound", "question": "I invest 5000 at 4 percent a year for 5 years with compound interest, what is the final amount?", "reference_expression": "5000*(1+4/100)^5", "expected": 6083.264512000001}
+{"id": "q178", "difficulty": "hard", "category": "cubed", "question": "8 cubed minus 20", "reference_expression": "8^3-20", "expected": 492.0}
+{"id": "q179", "difficulty": "hard", "category": "brackets", "question": "(18 plus 5) times (19 minus 8)", "reference_expression": "(18+5)*(19-8)", "expected": 253.0}
+{"id": "q180", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 81 plus 6 squared", "reference_expression": "sqrt(81)+6^2", "expected": 45.0}
+{"id": "q181", "difficulty": "hard", "category": "fact", "question": "8 factorial divided by 2 factorial", "reference_expression": "factorial(8)/factorial(2)", "expected": 20160.0}
+{"id": "q182", "difficulty": "hard", "category": "cbrt", "question": "cube root of 125 times 7", "reference_expression": "cbrt(125)*7", "expected": 35.0}
+{"id": "q183", "difficulty": "hard", "category": "circle", "question": "A circle has radius 8, what is its area?", "reference_expression": "pi*8^2", "expected": 201.06192982974676}
+{"id": "q184", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 3 and height 13, what is its volume?", "reference_expression": "pi*3^2*13", "expected": 367.5663404700058}
+{"id": "q185", "difficulty": "hard", "category": "compound", "question": "I invest 20000 at 4 percent a year for 4 years with compound interest, what is the final amount?", "reference_expression": "20000*(1+4/100)^4", "expected": 23397.171200000004}
+{"id": "q186", "difficulty": "hard", "category": "power", "question": "6 to the power of 5", "reference_expression": "6^5", "expected": 7776.0}
+{"id": "q187", "difficulty": "hard", "category": "cubed", "question": "7 cubed minus 13", "reference_expression": "7^3-13", "expected": 330.0}
+{"id": "q188", "difficulty": "hard", "category": "brackets", "question": "(11 plus 19) times (9 minus 4)", "reference_expression": "(11+19)*(9-4)", "expected": 150.0}
+{"id": "q189", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 256 plus 12 squared", "reference_expression": "sqrt(256)+12^2", "expected": 160.0}
+{"id": "q190", "difficulty": "hard", "category": "hyp", "question": "A right triangle has sides 7 and 24, what is the hypotenuse?", "reference_expression": "sqrt(7^2+24^2)", "expected": 25.0}
+{"id": "q191", "difficulty": "hard", "category": "fact", "question": "6 factorial divided by 4 factorial", "reference_expression": "factorial(6)/factorial(4)", "expected": 30.0}
+{"id": "q192", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 6 and height 9, what is its volume?", "reference_expression": "pi*6^2*9", "expected": 1017.8760197630929}
+{"id": "q193", "difficulty": "hard", "category": "compound", "question": "I invest 50000 at 10 percent a year for 4 years with compound interest, what is the final amount?", "reference_expression": "50000*(1+10/100)^4", "expected": 73205.00000000001}
+{"id": "q194", "difficulty": "hard", "category": "power", "question": "9 to the power of 5", "reference_expression": "9^5", "expected": 59049.0}
+{"id": "q195", "difficulty": "hard", "category": "cubed", "question": "9 cubed minus 22", "reference_expression": "9^3-22", "expected": 707.0}
+{"id": "q196", "difficulty": "hard", "category": "brackets", "question": "(8 plus 18) times (23 minus 9)", "reference_expression": "(8+18)*(23-9)", "expected": 364.0}
+{"id": "q197", "difficulty": "hard", "category": "sqrt_sq", "question": "square root of 64 plus 12 squared", "reference_expression": "sqrt(64)+12^2", "expected": 152.0}
+{"id": "q198", "difficulty": "hard", "category": "cbrt", "question": "cube root of 343 times 3", "reference_expression": "cbrt(343)*3", "expected": 21.0}
+{"id": "q199", "difficulty": "hard", "category": "cylinder", "question": "A cylinder has radius 5 and height 12, what is its volume?", "reference_expression": "pi*5^2*12", "expected": 942.4777960769379}
+{"id": "q200", "difficulty": "hard", "category": "compound", "question": "I invest 10000 at 5 percent a year for 3 years with compound interest, what is the final amount?", "reference_expression": "10000*(1+5/100)^3", "expected": 11576.250000000002}
+{"id": "q201", "difficulty": "advanced", "category": "trig", "question": "sin 0 plus cos 0", "reference_expression": "sin(0)+cos(0)", "expected": 1.0}
+{"id": "q202", "difficulty": "advanced", "category": "ladder", "question": "A 8 m ladder leans at 45 degrees, how high does it reach?", "reference_expression": "8*sin(45)", "expected": 5.656854249492381}
+{"id": "q203", "difficulty": "advanced", "category": "logbase", "question": "log 32 base 2", "reference_expression": "log(32,2)", "expected": 5.0}
+{"id": "q204", "difficulty": "advanced", "category": "log10", "question": "log of 10000", "reference_expression": "log(10000)", "expected": 4.0}
+{"id": "q205", "difficulty": "advanced", "category": "ceil", "question": "ceiling of 472.5", "reference_expression": "ceil(472.5)", "expected": 473.0}
+{"id": "q206", "difficulty": "advanced", "category": "floor", "question": "lower limit of 315.5", "reference_expression": "floor(315.5)", "expected": 315.0}
+{"id": "q207", "difficulty": "advanced", "category": "buses", "question": "304 students need buses with 40 seats each, how many buses are needed?", "reference_expression": "ceil(304/40)", "expected": 8.0}
+{"id": "q208", "difficulty": "advanced", "category": "invtrig", "question": "inverse sine of 1", "reference_expression": "asin(1)", "expected": 90.0}
+{"id": "q209", "difficulty": "advanced", "category": "hyper", "question": "hyperbolic tangent of 2", "reference_expression": "tanh(2)", "expected": 0.9640275800758169}
+{"id": "q210", "difficulty": "advanced", "category": "ln", "question": "natural log of 2", "reference_expression": "ln(2)", "expected": 0.6931471805599453}
+{"id": "q211", "difficulty": "advanced", "category": "exp", "question": "e to the power 1", "reference_expression": "exp(1)", "expected": 2.718281828459045}
+{"id": "q212", "difficulty": "advanced", "category": "combo_log", "question": "8 times log 4 base 2", "reference_expression": "8*log(4,2)", "expected": 16.0}
+{"id": "q213", "difficulty": "advanced", "category": "ceil_sqrt", "question": "ceiling of the square root of 90", "reference_expression": "ceil(sqrt(90))", "expected": 10.0}
+{"id": "q214", "difficulty": "advanced", "category": "abs", "question": "absolute value of -35 plus 31", "reference_expression": "abs(-35)+31", "expected": 66.0}
+{"id": "q215", "difficulty": "advanced", "category": "recip", "question": "reciprocal of 2", "reference_expression": "recip(2)", "expected": 0.5}
+{"id": "q216", "difficulty": "advanced", "category": "floorsum", "question": "floor of 29.5 plus ceiling of 13.7", "reference_expression": "floor(29.5)+ceil(13.7)", "expected": 43.0}
+{"id": "q217", "difficulty": "advanced", "category": "trig", "question": "sin 0 plus cos 60", "reference_expression": "sin(0)+cos(60)", "expected": 0.5000000000000001}
+{"id": "q218", "difficulty": "advanced", "category": "logbase", "question": "log 1024 base 4", "reference_expression": "log(1024,4)", "expected": 5.0}
+{"id": "q219", "difficulty": "advanced", "category": "log10", "question": "log of 100000", "reference_expression": "log(100000)", "expected": 5.0}
+{"id": "q220", "difficulty": "advanced", "category": "ceil", "question": "upper limit of 414.5", "reference_expression": "ceil(414.5)", "expected": 415.0}
+{"id": "q221", "difficulty": "advanced", "category": "floor", "question": "lower limit of 449.8", "reference_expression": "floor(449.8)", "expected": 449.0}
+{"id": "q222", "difficulty": "advanced", "category": "buses", "question": "181 students need buses with 50 seats each, how many buses are needed?", "reference_expression": "ceil(181/50)", "expected": 4.0}
+{"id": "q223", "difficulty": "advanced", "category": "invtrig", "question": "inverse cosine of 0", "reference_expression": "acos(0)", "expected": 90.0}
+{"id": "q224", "difficulty": "advanced", "category": "hyper", "question": "hyperbolic cosine of 0.5", "reference_expression": "cosh(0.5)", "expected": 1.1276259652063807}
+{"id": "q225", "difficulty": "advanced", "category": "ln", "question": "natural log of 100", "reference_expression": "ln(100)", "expected": 4.605170185988092}
+{"id": "q226", "difficulty": "advanced", "category": "exp", "question": "e to the power 3", "reference_expression": "exp(3)", "expected": 20.085536923187668}
+{"id": "q227", "difficulty": "advanced", "category": "combo_log", "question": "9 times log 25 base 5", "reference_expression": "9*log(25,5)", "expected": 18.0}
+{"id": "q228", "difficulty": "advanced", "category": "ceil_sqrt", "question": "ceiling of the square root of 30", "reference_expression": "ceil(sqrt(30))", "expected": 6.0}
+{"id": "q229", "difficulty": "advanced", "category": "abs", "question": "absolute value of -30 plus 6", "reference_expression": "abs(-30)+6", "expected": 36.0}
+{"id": "q230", "difficulty": "advanced", "category": "recip", "question": "reciprocal of 10", "reference_expression": "recip(10)", "expected": 0.1}
+{"id": "q231", "difficulty": "advanced", "category": "floorsum", "question": "floor of 13.3 plus ceiling of 14.9", "reference_expression": "floor(13.3)+ceil(14.9)", "expected": 28.0}
+{"id": "q232", "difficulty": "advanced", "category": "trig", "question": "sin 45 plus cos 45", "reference_expression": "sin(45)+cos(45)", "expected": 1.4142135623730951}
+{"id": "q233", "difficulty": "advanced", "category": "ladder", "question": "A 15 m ladder leans at 30 degrees, how high does it reach?", "reference_expression": "15*sin(30)", "expected": 7.499999999999999}
+{"id": "q234", "difficulty": "advanced", "category": "logbase", "question": "log 27 base 3", "reference_expression": "log(27,3)", "expected": 3.0}
+{"id": "q235", "difficulty": "advanced", "category": "log10", "question": "log of 100", "reference_expression": "log(100)", "expected": 2.0}
+{"id": "q236", "difficulty": "advanced", "category": "ceil", "question": "ceiling of 314.7", "reference_expression": "ceil(314.7)", "expected": 315.0}
+{"id": "q237", "difficulty": "advanced", "category": "floor", "question": "floor of 176.2", "reference_expression": "floor(176.2)", "expected": 176.0}
+{"id": "q238", "difficulty": "advanced", "category": "buses", "question": "312 students need buses with 50 seats each, how many buses are needed?", "reference_expression": "ceil(312/50)", "expected": 7.0}
+{"id": "q239", "difficulty": "advanced", "category": "invtrig", "question": "inverse cosine of 0.5", "reference_expression": "acos(0.5)", "expected": 60.00000000000001}
+{"id": "q240", "difficulty": "advanced", "category": "hyper", "question": "hyperbolic tangent of 1", "reference_expression": "tanh(1)", "expected": 0.7615941559557649}
+{"id": "q241", "difficulty": "advanced", "category": "ln", "question": "natural log of 20", "reference_expression": "ln(20)", "expected": 2.995732273553991}
+{"id": "q242", "difficulty": "advanced", "category": "combo_log", "question": "5 times log 27 base 3", "reference_expression": "5*log(27,3)", "expected": 15.0}
+{"id": "q243", "difficulty": "advanced", "category": "ceil_sqrt", "question": "ceiling of the square root of 70", "reference_expression": "ceil(sqrt(70))", "expected": 9.0}
+{"id": "q244", "difficulty": "advanced", "category": "abs", "question": "absolute value of -46 plus 3", "reference_expression": "abs(-46)+3", "expected": 49.0}
+{"id": "q245", "difficulty": "advanced", "category": "recip", "question": "reciprocal of 20", "reference_expression": "recip(20)", "expected": 0.05}
+{"id": "q246", "difficulty": "advanced", "category": "floorsum", "question": "floor of 25.4 plus ceiling of 1.3", "reference_expression": "floor(25.4)+ceil(1.3)", "expected": 27.0}
+{"id": "q247", "difficulty": "advanced", "category": "ladder", "question": "A 12 m ladder leans at 45 degrees, how high does it reach?", "reference_expression": "12*sin(45)", "expected": 8.485281374238571}
+{"id": "q248", "difficulty": "advanced", "category": "logbase", "question": "log 243 base 3", "reference_expression": "log(243,3)", "expected": 5.0}
+{"id": "q249", "difficulty": "advanced", "category": "ceil", "question": "upper limit of 224.5", "reference_expression": "ceil(224.5)", "expected": 225.0}
+{"id": "q250", "difficulty": "advanced", "category": "floor", "question": "floor of 398.8", "reference_expression": "floor(398.8)", "expected": 398.0}
+{"id": "q251", "difficulty": "advanced", "category": "buses", "question": "299 students need buses with 45 seats each, how many buses are needed?", "reference_expression": "ceil(299/45)", "expected": 7.0}
+{"id": "q252", "difficulty": "advanced", "category": "hyper", "question": "hyperbolic tangent of 0.5", "reference_expression": "tanh(0.5)", "expected": 0.46211715726000974}
+{"id": "q253", "difficulty": "advanced", "category": "exp", "question": "e to the power 2", "reference_expression": "exp(2)", "expected": 7.38905609893065}
+{"id": "q254", "difficulty": "advanced", "category": "combo_log", "question": "2 times log 81 base 3", "reference_expression": "2*log(81,3)", "expected": 8.0}
+{"id": "q255", "difficulty": "advanced", "category": "abs", "question": "absolute value of -44 plus 3", "reference_expression": "abs(-44)+3", "expected": 47.0}
+{"id": "q256", "difficulty": "advanced", "category": "recip", "question": "reciprocal of 4", "reference_expression": "recip(4)", "expected": 0.25}
+{"id": "q257", "difficulty": "advanced", "category": "floorsum", "question": "floor of 33.9 plus ceiling of 22.9", "reference_expression": "floor(33.9)+ceil(22.9)", "expected": 56.0}
+{"id": "q258", "difficulty": "advanced", "category": "trig", "question": "sin 30 plus cos 60", "reference_expression": "sin(30)+cos(60)", "expected": 1.0}
+{"id": "q259", "difficulty": "advanced", "category": "ladder", "question": "A 8 m ladder leans at 30 degrees, how high does it reach?", "reference_expression": "8*sin(30)", "expected": 3.9999999999999996}
+{"id": "q260", "difficulty": "advanced", "category": "log10", "question": "log of 1000", "reference_expression": "log(1000)", "expected": 3.0}
+{"id": "q261", "difficulty": "advanced", "category": "ceil", "question": "upper limit of 174.3", "reference_expression": "ceil(174.3)", "expected": 175.0}
+{"id": "q262", "difficulty": "advanced", "category": "floor", "question": "lower limit of 268.7", "reference_expression": "floor(268.7)", "expected": 268.0}
+{"id": "q263", "difficulty": "advanced", "category": "buses", "question": "294 students need buses with 45 seats each, how many buses are needed?", "reference_expression": "ceil(294/45)", "expected": 7.0}
+{"id": "q264", "difficulty": "advanced", "category": "combo_log", "question": "2 times log 9 base 3", "reference_expression": "2*log(9,3)", "expected": 4.0}
+{"id": "q265", "difficulty": "advanced", "category": "abs", "question": "absolute value of -6 plus 43", "reference_expression": "abs(-6)+43", "expected": 49.0}
+{"id": "q266", "difficulty": "advanced", "category": "floorsum", "question": "floor of 39.6 plus ceiling of 2.5", "reference_expression": "floor(39.6)+ceil(2.5)", "expected": 42.0}
+{"id": "q267", "difficulty": "advanced", "category": "trig", "question": "sin 30 plus cos 30", "reference_expression": "sin(30)+cos(30)", "expected": 1.3660254037844386}
+{"id": "q268", "difficulty": "advanced", "category": "ladder", "question": "A 5 m ladder leans at 60 degrees, how high does it reach?", "reference_expression": "5*sin(60)", "expected": 4.330127018922193}
+{"id": "q269", "difficulty": "advanced", "category": "ceil", "question": "ceiling of 388.9", "reference_expression": "ceil(388.9)", "expected": 389.0}
+{"id": "q270", "difficulty": "advanced", "category": "floor", "question": "floor of 463.3", "reference_expression": "floor(463.3)", "expected": 463.0}
+{"id": "q271", "difficulty": "advanced", "category": "buses", "question": "338 students need buses with 45 seats each, how many buses are needed?", "reference_expression": "ceil(338/45)", "expected": 8.0}
+{"id": "q272", "difficulty": "advanced", "category": "hyper", "question": "hyperbolic sine of 2", "reference_expression": "sinh(2)", "expected": 3.6268604078470186}
+{"id": "q273", "difficulty": "advanced", "category": "ln", "question": "natural log of 50", "reference_expression": "ln(50)", "expected": 3.912023005428146}
+{"id": "q274", "difficulty": "advanced", "category": "combo_log", "question": "4 times log 9 base 3", "reference_expression": "4*log(9,3)", "expected": 8.0}
+{"id": "q275", "difficulty": "advanced", "category": "abs", "question": "absolute value of -3 plus 21", "reference_expression": "abs(-3)+21", "expected": 24.0}
+{"id": "q276", "difficulty": "advanced", "category": "floorsum", "question": "floor of 21.3 plus ceiling of 49.2", "reference_expression": "floor(21.3)+ceil(49.2)", "expected": 71.0}
+{"id": "q277", "difficulty": "advanced", "category": "trig", "question": "sin 30 plus cos 0", "reference_expression": "sin(30)+cos(0)", "expected": 1.5}
+{"id": "q278", "difficulty": "advanced", "category": "ladder", "question": "A 15 m ladder leans at 60 degrees, how high does it reach?", "reference_expression": "15*sin(60)", "expected": 12.990381056766578}
+{"id": "q279", "difficulty": "advanced", "category": "logbase", "question": "log 9 base 3", "reference_expression": "log(9,3)", "expected": 2.0}
+{"id": "q280", "difficulty": "advanced", "category": "log10", "question": "log of 1000000", "reference_expression": "log(1000000)", "expected": 6.0}

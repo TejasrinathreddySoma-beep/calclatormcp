@@ -1,0 +1,15 @@
+# Same as config.yaml, but the calculations are done by the real Windows Calculator app.
+# Use:  mcpcalc-chat --config config.windows.yaml
+# Needs Windows 10/11 with the built-in Calculator (English display language) and:  pip install -e ".[windows]"
+llm:
+  model: qwen2.5:7b
+translator:
+  strategy: full
+backend: windows_calculator
+angle_mode: deg
+server:
+  transport: stdio
+  workers: 1                 # the UI can only do one thing at a time
+  timeout_s: 90              # a Calculator run takes several seconds
+database:
+  path: data/mcpcalc.db
