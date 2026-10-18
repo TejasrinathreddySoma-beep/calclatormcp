@@ -408,5 +408,4 @@ and is verified at run time by the check above.
 
 ## License
 
-MIT - see [LICENSE](LICENSE). Replace "Your Name" in `LICENSE`, and `TejasrinathreddySoma-beep` in the badge and clone URL, before
-publishing.
+MIT - see [Teja](LICENSE).
